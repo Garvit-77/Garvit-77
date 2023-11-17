@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Hi there 👋, I'm Garvit Khandelwal
 
 <!--
 **Garvit-77/Garvit-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
