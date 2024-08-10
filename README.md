@@ -1,5 +1,11 @@
 ###  Hi there 👋, I'm Garvit Khandelwal
 
+🌟 Passionate Tech Explorer | Creative Problem Solver | Open-Source Newbie 🚀
+
+Hey there! I'm a tech enthusiast always on the lookout for the latest trends and tools.
+Adaptability is my superpower, and I love diving into new technologies to find creative solutions to tricky problems.
+While I'm new to open-source contributions, I'm eager to learn and collaborate. Let’s build something amazing together! 🌐
+
 <!--
 **Garvit-77/Garvit-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
